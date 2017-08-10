@@ -1,0 +1,270 @@
+ΕΦΑΡΜΟΓΗ,ΘΕΜΑΤΙΚΗ ΕΝΟΤΗΤΑ,ΓΝΩΣΤΙΚΟ ΑΝΤΙΚΕΙΜΕΝΟ,ΕΚΠΑΙΔΕΥΤΙΚΗ ΒΑΘΜΙΔΑ,"URL
+",ΠΕΡΙΓΡΑΦΗ,"ΑΔΕΙΑ
+",ΕΙΔΟΣ,ΛΕΙΤΟΥΡΓΙΚΟ
+"
+ChildsPlay",ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ - ΠΡΩΤΟΒΑΘΜΙΑ,http://www.schoolsplay.org/,Συλλογή εκπιαδευτικών δραστηριοτήτων για παιδια,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+7-zip,ΣΥΜΠΙΕΣΗ ΑΡΧΕΙΩΝ,ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://www.7-zip.org/,Το 7-Zip μια εφαρμογή συμπίεσης αρχείων,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+8085 simulator,ΗΛΕΚΤΡΟΝΙΚΗ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://gnusim8085.github.io/,Το GNUSim8085 είναι simulator και assembler για τον Intel 8085 Microprocessor,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"WINDOWS, LINUX"
+Αβάκιο,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://etl.ppp.uoa.gr/_content/download/index_download.htm,"Το «Αβάκιο / E-Slate» αποτελεί ένα «ανοιχτό» εκπαιδευτικό λογισμικό διερευνητικής μάθησης βασισμένο στην αρχιτεκτονική Ψηφίδων για την ανάπτυξη εκπαιδευτικών προϊόντων. Τα εκπαιδευτικά προϊόντα που κατασκευάζονται με το «Αβάκιο E-Slate» μπορούν να καλύψουν μεγάλο εύρος γνωστικών αντικειμένων και επιπέδων εκπαίδευσης. Εκπαιδευτικές εφαρμογές βασισμένες στο «Αβάκιο E-Slate», όπως ο «Χελωνόκοσμος» το «Ταξινομούμε», ο «Ξένιος» και οι «Μυκήνες» χρησιμοποιούνται σε αρκετά σχολεία (αντίστοιχα σε γνωστικά αντικείμενα Μαθηματικών, Γεωγραφίας, Ξένων Γλωσσών, Ιστορίας).",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Διερμηνευτής,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://alkisg.mysch.gr/,"Ο Διερμηνευτής της ΓΛΩΣΣΑΣ είναι ένα ολοκληρωμένο περιβάλλον ανάπτυξης αλγορίθμων σε μορφή ψευδοκώδικα, ειδικά σχεδιασμένο για τη ΓΛΩΣΣΑ προγραμματισμού που διδάσκεται στα πλαίσια του μαθήματος Ανάπτυξη εφαρμογών σε προγραμματιστικό περιβάλλον (ΑΕΠΠ) της Γ΄ Γενικού Λυκείου",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"
+WINDOWS,LINUX (WINE)"
+Επόπτης,ΔΙΑΧΕΙΡΙΣΗ ΕΡΓΑΣΤΗΡΙΩΝ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.epoptes.org/,"Η εφαρμογή Επόπτης (Epoptes) αποτελεί μία σύγχρονη εφαρμογή διαχείρισης τάξης σε λειτουργικά συστήματα Ubuntu.      η απομακρυσμένη διαχείριση που περιλαμβάνει απομακρυσμένο άνοιγμα & κλείσιμο σταθμών, (απο)σύνδεση χρηστών, η προβολή χαρακτηριστικών του υλικού των σταθμών, η αυτόματη ανίχνευση υπολογιστών καθώς και η δυνατότητα ορισμού συγκεκριμένων ονομάτων στους υπολογιστές, το άνοιγμα της κονσόλας του σταθμού του χρήστη στο σταθμό του καθηγητή,
+    η προβολή και μετάδοση οθονών που περιλαμβάνει τη γενική επισκόπηση των οθονών των μαθητών, τον απομακρυσμένο έλεγχο της οθόνης κάποιου συγκεκριμένου μαθητή και την προβολή της οθόνης του καθηγητή στους μαθητές,
+    η υποστήριξη πολλών τάξεων ώστε να μπορούν για παράδειγμα δύο ή περισσότεροι καθηγητές να κάνουν ταυτόχρονα διδασκαλία σε διαφορετικούς σταθμούς ενός εργαστηρίου ή του σχολείου, (χρήσιμο για ένα σχολείο με δύο εργαστήρια και έναν εξυπηρετητή),
+    ο περιορισμός των μαθητών που περιλαμβάνει κλείδωμα / ξεκλείδωμα των οθονών τους, άνοιγμα κλείσιμο ήχου,
+    η απομακρυσμένη εκτέλεση εντολών σε όλους ή επιλεγμένους υπολογιστές,
+    ο διαμοιρασμός της επιφάνειας εργασίας του καθηγητή εκτός του εργαστηρίου για λόγους τεχνικής υποστήριξης ή απομακρυσμένης διδασκαλίας. ","OPEN SOURCE
+",ΕΦΑΡΜΟΓΗ,LINUX
+"Πλατφόρμα ""Αίσωπος""","Ανοιχτό Εκπαιδευτικό Περιεχόμενο
+",ΟΛΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://aesop.iep.edu.gr/,,,ΠΛΑΤΦΟΡΜΑ,
+A1 Academa,Συστήματα διαχείρισης Πληροφοριών,,,http://www.academia.a1.io,Συστήματα διαχείρισης Πληροφοριών,,,
+apache server,ΔΙΑΧΕΙΡΙΣΗ ΕΡΓΑΣΤΗΡΙΩΝ,,,apache.org,server,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Apere,Πλατφόρμες eLearning,,,http://www.oaeproject.org,Πλατφόρμες eLearning,,,
+AppInventor,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,appinventor.mit.edu/,"Το App Inventor για Android είναι ένα περιβάλλον οπτικού προγραμματισμού που παρεχόταν αρχικά από την Google, και τώρα διατίθεται και υποστηρίζεται από το ΜΙΤ.",OPEN SOURCE,ΠΛΑΤΦΟΡΜΑ,"ONLINE
+"
+Archimides,ΗΛΕΚΤΡΟΝΙΚΗ,ΤΕΧΝΟΛΟΓΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.gnu.org/software/archimedes/,Το Archimedes είναι ένα πακέτο για  semiconductor device simulation,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Arduino IDE,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.arduino.cc/en/Main/Software,"Το Arduinο IDE είναι ένα λογισμικό που σας επιτρέπει να  διαχειριστείτε και να δημιουργήσετε για το Arduino μέσω του υπολογιστή σας. Περιλαμβάνει έναν editor δημιουργίας και σύνταξης κώδικα, μια κονσόλα κειμένου, μια γραμμή εργαλείων με κουμπιά για κοινές λειτουργίες και μια σειρά από μενού.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Asymptopia crossword builder,ΣΤΑΥΡΟΛΕΞΑ,ΞΕΝΕΣ ΓΛΩΣΣΕΣ,ΠΡΩΤΟΒΑΘΜΙΑ,https://sourceforge.net/projects/axwb/,Εφαρμογή για τη δημιουργία σταυρόλεξων με μαθηματικές πράξεις.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Audacious,ΜΟΥΣΙΚΗ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://audacious-media-player.org/,Open source audio player.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Audacity,ΜΟΥΣΙΚΗ,ΠΛΗΡΟΦΟΡΙΚΗ,ΟΛΕΣ,http://www.audacityteam.org/about/,"Το Audacity είναι ένα δωρεάν, εύκολο στη χρήση, multi-track πρόγραμμα επεξεργασίας ήχου και εγγραφής για Windows, Mac OS X, GNU / Linux και άλλα λειτουργικά συστήματα.","OPEN SOURCE
+",ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Avidemux,ΒΙΝΤΕΟ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://avidemux.sourceforge.net/,"Απλός video editor designed για κόψιμο, φιλτράρισμα και κωδικοποίηση βίντεο",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Babypedia Jigsaw puzzle,"ΚΟΥΙΖ, ΠΑΖΛ, ΤΕΣΤ",ΜΑΘΗΜΑΤΙΚΑ,ΝΗΠΙΑΓΩΓΕΙΟ,,,,,
+Blender 3D,ΒΙΝΤΕΟ - 3D ΓΡΑΦΙΚΑ,ΠΛΗΡΟΦΟΡΙΚΗ,ΟΛΕΣ,https://www.blender.org/,"
+Το Blender είναι μια από τις δημοφιλέστερες εφαρμογές 3D γραφικών ανοικτού λογισμικούυ και μπορεί να χρησιμοποιηθεί για την δημιουργία 3D οπτικοποιήσεων, ταινιών κτκλ
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Bluefish,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://bluefish.openoffice.nl/index.html,"O Bluefish editor, είναι ενας editoe για την δημιουργία websites, scripts και κώδικα προγραματισμου. Το Bluefish υποστηρίζει πολλές programming και markup languages. ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Brasero,CD BURNER,ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,https://wiki.gnome.org/Apps/Brasero,"Εφαρμογή εγγραγής CD/DVD (cdrtools, cdrskin, growisofs,libburn",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Canvas,Πλατφόρμες eLearning,,,http://www.instructure.com,Πλατφόρμες eLearning,,,
+Carto,ΓΕΩΓΡΑΦΙΑ,ΓΕΩΛΟΓΙΑ - ΓΕΩΓΡΑΦΙΑ,ΠΡΩΤΟΒΑΘΜΙΑ,"https://carto.com/
+","Το εργαλείο CartoDB είναι μια διαδικτυακή πλατφόρμα, εξερευνησης γεωγραφικών δεδομενων",OPEN SOURCE,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Celestia,ΑΣΤΡΟΝΟΜΙΑ,,"ΠΡΩΤΟΒΑΘΜΙΑ
+", http://www.shatters.net/celestia/ ,"Το Celestia http://www.shatters.net/celestia/ είναι ένα λογισμικό τρισδιάστατης εικονικής αναπαράστασης φαινομένων του σύμπαντος και προσφέρει ένα μαθησιακό περιβάλλον για την διδασκαλία στοιχείων αστρονομίας και διαστημικής. Το Celestia είναι κατάλληλο για την κατανόηση, από τους μαθητές της πρωτοβάθμιας και της δευτεροβάθμιας εκπαίδευσης εννοιών σχετικών με το χώρο και για τη θέση του ανθρώπου στη Γη και το διάστημα.",OPEN SOURCE,"ΕΦΑΡΜΟΓΗ
+","CROSSPLATFORM
+"
+centenia,ΙΣΤΟΡΙΑ,ΙΣΤΟΡΙΑ,ΠΡΩΤΟΒΑΘΜΙΑ,http://www.historicalatlas.com/,"CENTENNIA is a map-based guide to the history of Europe and the Middle East from the beginning of the 11th century to the present. It is a dynamic, animated historical atlas including over 9,000 border changes.",,ΠΛΑΤΦΟΡΜΑ,ONLINE
+circuit maker,ΗΛΕΚΤΡΟΝΙΚΗ,ΦΥΣΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://circuitmaker.com/About,"CircuitMaker is not just a free EDA software tool from Altium, it’s also a community of creative people and design content, working together to invent circuits and electronics products for a better future.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+ClamWinLynis,"ANTIVIRUS
+",ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,,"Antivirus
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Clonezilla,"ΚΛΩΝΟΠΟΙΗΣΗ ΔΙΣΚΩΝ
+",ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://clonezilla.org/,Disk Imaging and Cloning ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+CMAPTOOLS,ΝΟΗΤΙΚΟΙ ΧΑΡΤΕΣ,ΑΡΧΑΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://cmap.ihmc.us/cmaptools/,Λογισμικό για νοητικούς χάρτες,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Cn3D,ΠΕΡΙΗΓΗΣΗ ΣΕ 3D ΧΑΡΤΕΣ,ΒΙΟΛΟΓΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.ncbi.nlm.nih.gov/Structure/CN3D/cn3d.shtml,"Cn3D (""see in 3D"") είναι μια βοηθητική εφαρμογή για τον περιηγητή, που σας επιτρέπει να βλέπετε 3διάστατες δομές από την NCBI's Entrez Structure database",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"WINDOWS, MACOSX"
+Dev-C++,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://orwelldevcpp.blogspot.gr/,Προγραμματιστικό περιβάλλον ανάπτυξης (IDE)  για προγραμματισμό σε C και σε C++.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Dia,ΣΧΕΔΙΑΣΗ ΔΙΑΓΡΑΜΜΑΤΩΝ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://dia-installer.de/,"Πρόγραμμα για την κατασκευή διαγραμμάτων (UML, ER, Network Diagrams κ.ά.).",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+DrPython,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://drpython.sourceforge.net/,Περιβάλλον για την ανάπτυξη κώδικα στη γλώσσα προγραμματισμού Python',OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Drupal,"CMS
+",ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://mydrupal.gr/,Το Drupal είναι ένα ανοιχτού κώδικα Σύστημα διαχείρισης περιεχόμενου (CMS). Χρησιμοποιείται για την δημιουργία και την διαχείριση πολλών και διαφορετικών ιστότοπων.,OPEN SOURCE,,
+DustyScript,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,"ΠΡΩΤΟΒΑΘΜΙΑ
+","https://sourceforge.net/projects/dustyscript/
+","Πρόκειται για μια γλώσσα προγραμματισμού κατάλληλη για παιδιά 8-9 ετών και απλή έτσι ώστε να είναι κατανοητή.
+",OPEN SOURCE,EΦΑΡΜΟΓΗ,CROSSPLATFORM
+Easy Java Simulations,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΦΥΣΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.um.es/fem/Ejs/,Εργαλείο κατασκευής και επεξεργασίας προγραμμάτων Java,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Eclipse Java,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,https://eclipse.org/,Προγραμματιστικό περιβάλλον ανάπτυξης (IDE)  για προγραμματισμό σε Java ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Edmondo,Δημιουργία ψηφιακής τάξης,ΟΛΕΣ,ΟΛΕΣ,https://www.edmodo.com/?language=el,Συνεργατική πλατφόρμα,"
+",ΠΛΑΤΦΟΡΜΑ,ONLINE
+eduTrac,Συστήματα διαχείρισης Πληροφοριών,,,http://www.7mediaws.org/,Συστήματα διαχείρισης Πληροφοριών,,,
+EdX,Πλατφόρμες eLearning,,,https://github.com/edx,Πλατφόρμες eLearning,,,
+electric,ΗΛΕΚΤΡΟΝΙΚΗ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://www.staticfreesoft.com/,Πλήρες σύστημα αυτοματοποιημένης ηλεκτρονικής σχεδίασης και προσομοίωσης κυκλωμάτων,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+elvis,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://elvis.the-little-red-haired-girl.org/,"Editor  vi/ex clone, ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Enchanting,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://enchanting.robotclub.ab.ca/About,Περιβάλλον προγραμματισμού για LEGO Mindstorms NXT,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+ESRI's Javascript open API,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΜΕΛΕΤΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ,ΠΡΩΤΟΒΑΘΜΙΑ,,,,,
+eukleides,ΓΕΩΜΕΤΡΙΑ,ΜΑΘΗΜΑΤΙΚΑ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://www.eukleides.org/overview.html,Η γλώσσα Eukleides περιέχει ένα πλήρες πακέτο εντολών για τη δημιουργία σχημάτων της Ευκλείδειας γεωμετρίας,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Evolution,"ΗΛΕΚΤΡΟΝΙΚΗ ΑΛΛΗΛΟΓΡΑΦΙΑ
+","
+",ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://wiki.gnome.org/Apps/Evolution," Πρόκειται γαι εφαρμογή ηλεκτρονικής αλληλογραφίας για την επιφάνεια εργασίας GNOME, ενώ παράλληλα περιλαμβάνει ημερολόγιο και πρόγραμμα διαχείρισης επαφών.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Ffmpeg,ΜΟΥΣΙΚΗ - ΒΙΝΤΕΟ,ΕΙΚΑΣΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.ffmpeg.org/,"Εφαρμογή μετρατροπής και strreaming αρχείων βίντεο / ήχου σε άλλα, όπως FLV και άλλες μορφές βίντεο χρησιμοποιώντας τον κωδικοποιητή XviD / x264
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+FileZilla,ΕΦΑΡΜΟΓΗ ΓΙΑ FTP,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://filezilla-project.org/index.php,"Εφαρμογή FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+FreeBSD,"ΛΕΙΤΟΥΡΓΙΚΟ ΣΥΣΤΗΜΑ
+",ΠΛΗΡΟΦΟΡΙΚΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,https://www.freebsd.org/,"FreeBSD is an advanced computer operating system used to power modern servers, desktops, and embedded platforms.",OPEN SOURCE,ΛΕΙΤΟΥΡΓΙΚΟ ΣΥΣΤΗΜΑ,
+FreePCB,ΗΛΕΚΤΡΟΝΙΚΗ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.freepcb.com/,PCB editor για Microsoft Windows,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Fritzing,ΗΛΕΚΤΡΟΝΙΚΗ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,ΕΠΑΓΓΕΛΜΑΤΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,http://fritzing.org/home/,"
+
+Λογισμικο προσομοιωσης κατασκευής ηλεκτρονικών πλακετών, ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+GanttProject,Διαχείριση έργων,,,https://www.ganttproject.biz,Διαχείριση έργων,,,
+GCC,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,"ΠΛΗΡΟΦΟΡΙΚΗ
+",ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://gcc.gnu.org/,"The GNU Compiler Collection (GCC) Πρόκειται για συλλογή μεταγλωττιστών για τις γλώσσες C, C++, Objective-C, Fortran, Java και Ada.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+gcompris,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,ΓΛΩΣΣΑ,ΠΡΟΣΧΟΛΙΚΗ - ΠΡΩΤΟΒΑΘΜΙΑ,http://gcompris.net/index-el.html,"Το GCompris είναι μια σουίτα εκπαιδευτικού λογισμικού και αποτελείται από ένα μεγάλο πλήθος δραστηριοτήτων για παιδιά ηλικίας 2 έως 10 ετών.
+
+Μερικές από τις δραστηριότητες αν και έχουν παιγνιώδη χαρακτήρα, ωστόσο διατηρούν τον εκπαιδευτικό τους προσανατολισμό.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Geany,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.geany.org,Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environmen,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"LINUX, WINDOWS"
+genChemLab,ΧΗΜΕΙΑ,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://genchemlab.sourceforge.net/,εφαρμογή για την προσομοίωση ασκήσεων χημείας στο σχολικό χημικό εργαστήριο,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"LINUX, WINDOWS"
+Gene Explorer,ΒΙΟΛΟΓΙΑ,ΒΙΟΛΟΓΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://intro.bio.umb.edu/GX/,Εφαρμογη εξομοίωσης γονιδιωμάτων,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+GeoGebra,ΓΕΩΜΕΤΡΙΑ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.geogebra.org/,"Το GeoGebra (σύνθεση των λέξεων geometry και algebra) αποτελεί διαδραστικό λογισμικό γεωμετρίας για εκπαιδευτικούς σκοπούς
+","OPEN SOURCE
+",ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Gibbon,Πλατφόρμες eLearning,,,http://www.gibbonedu.org,Πλατφόρμες eLearning,,,
+Gimp,ΕΠΕΞΕΡΓΑΣΙΑ ΦΩΤΟΓΡΑΦΙΑΣ,ΟΛΕΣ,ΟΛΕΣ,https://www.gimp.org/,"Λογισμικό για επεξεργασία φωτογραφιών, σύνθεση και δημιουργία εικόνων.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+GIT,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://git-scm.com/,Το Git (/ɡɪt/) είναι ένα σύστημα ελέγχου εκδόσεων (λέγεται και σύστημα ελέγχου αναθεωρήσεων ή σύστημα ελέγχου πηγαίου κώδικα),OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+GNU Octave,ΜΑΘΗΜΑΤΙΚΑ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.gnu.org/software/octave/,"Το Octave είναι ένα μαθηματικό πακέτο (και, κατ' επέκταση, μια υψηλού επιπέδου interpreted γλώσσα προγραμματισμού) που προορίζεται για αριθμητικούς υπολογισμούς και πολλά άλλα. Βασικό στοιχείο του είναι η ευκολία με την οποία χειρίζεται κανείς πίνακες
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+GoLab,"ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ
+",ΦΥΣΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.go-lab-project.eu/,The Go-Lab Project (Global Online Science Labs for Inquiry Learning at School) opens up online science laboratories (remote and virtual labs) for the large-scale use in school education,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+GPeriodic,ΧΗΜΕΙΑ,ΧΗΜΕΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://gperiodic.seul.org/,Eφαρμογή για την πλοήγηση στον περιοδικό πίνακα των χημικών στοιχείων,OPEN SOURCE,"ΕΦΑΡΜΟΓΗ
+",
+graph,ΜΑΘΗΜΑΤΙΚΑ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.padowan.dk/,Εφαρμογή σχεδίασης μαθηματικών γραφημάτων με συντεταγμένες,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+GraphViz,ΜΑΘΗΜΑΤΙΚΑ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.graphviz.org/,Graph visualization software,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+gravit,ΦΥΣΙΚΗ,ΦΥΣΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://gravit.slowchop.com/, εργαλείο προσομοίωσης της βαρύτητας. Μεταξύ άλλων παρέχει τη δυνατότητα δημιουργίας τρισδιάστατων βαρυτικών μοτίβων.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Greenfoot Java,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,"ΠΛΗΡΟΦΟΡΙΚΗ
+",ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.greenfoot.org/door,"Visual tools coupled with programming, making learning to program easier ","
+OPEN SOURCE",ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+gvSIG Educa,ΓΕΩΓΡΑΦΙΑ,ΓΕΩΓΡΑΦΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.gvsig.org/web/home/projects/gvsig-educa,,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Gzip,ΣΥΜΠΙΕΣΗ ΑΡΧΕΙΩΝ,ΟΛΕΣ,ΟΛΕΣ,http://www.gzip.org,"Εφαρμογή συμπίεση αρχείων
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Hot Potatoes,"ΚΟΥΙΖ, ΠΑΖΛ, ΤΕΣΤ",ΟΛΕΣ,ΠΡΩΤΟΒΑΘΜΙΑ,,το Hot Potatoes είναι μία συλλογή μικρών εφαρμογών για τη δημιουργία ασκήσεων εξάσκησης ή αξιολόγησης μέσω Η/Υ ή διαδικτύου.τ,,,
+http://sxoleio.cu.cc/,"ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ
+",,ΠΡΩΤΟΒΑΘΜΙΑ,http://sxoleio.cu.cc/,,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Inkscape,ΣΧΕΔΙΑΣΗ ΔΙΑΝΥΣΜΑΤΙΚΩΝ ΓΡΑΦΙΚΩΝ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://inkscape.org/en/,Το Inkscape είναι ένας επεξεργαστής διανυσματικών γραφικών ανοικτού κώδικα,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Interactive Story Maps,ΔΙΑΔΡΑΣΤΙΚΕΣ ΙΣΤΟΡΙΕΣ,,ΠΡΩΤΟΒΑΘΜΙΑ,https://storymaps.arcgis.com/en/,"Esri Story Maps let you combine authoritative maps with narrative text, images, and multimedia content.",,ΠΛΑΤΦΟΡΜΑ,
+"Interactive WEB Physics,",ΦΥΣΙΚΗ,ΦΥΣΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.iwphys.org/,"Innteractive Web Physics is a Java, Web-based animation and problem designer tool. Anyone can quickly design mathematics or physics animations and simulations that run in a web browser. Unlike other solutions, no knowledge of programming is required.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Italc,ΔΙΑΧΕΙΡΙΣΗ ΕΡΓΑΣΤΗΡΙΩΝ,,,http://italc.sourceforge.net/," Εφαρμογή ανοικτού κώδικα για τη διαχείριση μαθημάτων σε σχολικό εργαστήριο υπολογιστών (επίδειξη οθόνης, κλείδωμα υπολογιστών μαθητών, remote control και άλλα πολλά)",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"WINDOWS, LINUX"
+Jigsawplanet,"ΚΟΥΙΖ, ΠΑΖΛ, ΤΕΣΤ",,,http://www.jigsawplanet.com/,Free online jigsaw puzzles,,ΠΛΑΤΦΟΡΜΑ,
+JUMP GIS,ΓΕΩΓΡΑΦΙΑ,,,http://jump-pilot.sourceforge.net,Σύστημα Γεωγραφικ'ων Πληροφοριών,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+kapman,"ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ
+",,ΠΡΟΣΧΟΛΙΚΗ,https://www.kde.org/applications/games/kapman/,Παιχνίδι τυπου pacman,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Kazam,ΔΗΜΙΟΥΡΓΙΑ ΔΙΑΔΡΑΣΤΙΚΩΝ ΙΣΤΟΡΙΩΝ,,,https://sourceforge.net/projects/kazam/,ΔΗΜΙΟΥΡΓΙΑ ΔΙΑΔΡΑΣΤΙΚΩΝ ΙΣΤΟΡΙΩΝ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Kblocks,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ,https://www.kde.org/applications/games/kblocks/,Παιχνίδι τύπου Tetris,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+KDEnlive,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,ΠΛΗΡΟΦΟΡΙΚΗ,ΟΛΕΣ,https://kdenlive.org/,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+KiCad,ΗΛΕΚΤΡΟΝΙΚΗ,ΤΕΧΝΙΚΗ ΕΚΠΑΙΔΕΥΣΗ,,http://kicad-pcb.org/,ΗΛΕΚΤΡΟΝΙΚΗ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Kizoa,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,,,http://www.kizoa.com/,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Kig,ΓΕΩΜΕΤΡΙΑ,,ΠΡΩΤΟΒΑΘΜΙΑ,https://edu.kde.org/kig/?site_locale=el,ΓΕΩΜΕΤΡΙΑ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+klogic,ΗΛΕΚΤΡΟΝΙΚΗ,,,http://www.a-rostin.de/,ΗΛΕΚΤΡΟΝΙΚΗ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Kodi,ΠΟΛΥΜΕΣΑ,,,https://kodi.tv/,ΠΟΛΥΜΕΣΑ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Kodu,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,,,https://www.kodugamelab.com,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,,,
+Koha,Διαχείριση Βιβλιοθηκών,,,http://koha-community.org,Διαχείριση Βιβλιοθηκών,OPEN SOURCE,,
+kollision,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ,https://www.kde.org/applications/games/kollision/,Παιχνίδι εξοικειωσης με το ποντικι,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+kolourpaint,ΖΩΓΡΑΦΙΚΗ,,,https://www.kde.org/applications/graphics/kolourpaint/,Απλή εφαρμογή ζωγραφικής,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Kompozer,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,,,http://kompozer.net/,"Πρόγραμμα επεξεργασία HTML- Δημιουργία ιστοσελίδων
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+ksquares,"ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ
+",,ΠΡΟΣΧΟΛΙΚΗ,https://www.kde.org/applications/games/ksquares/,Παιχνίδι - Ενώνω σημεία για δημιουργία τετραγώνων,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+ktuberling,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ,https://www.kde.org/applications/games/ktuberling/,,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+KTurtle,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,,, https://edu.kde.org/kturtle/,Το πρόγραμμα αυτό αποτελεί ένα χρήσιμο εργαλείο για τη διδασκαλία της γεωμετρίας και βασικών αρχών προγραμματισμού σε παιδιά.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Kuali OLE,Διαχείριση Βιβλιοθηκών,,,http://www.kuali.org/ole,Διαχείριση Βιβλιοθηκών,OPEN SOURCE,,
+LAMS,Ανοιχτό Εκπαιδευτικό περιεχόμενο,,, https://wiki.lamsfoundation.org/display/lams/Home,Σύστημα Διαχείρισης Μαθησιακών Δραστηριοτήτων (LAMS) - Σχεδιασμού Μάθησης https://www.lamsfoundation.org/ (ΕΛΛΑΚ) και ως υπηρεσία στο ΠΣΔ http://lams.sch.gr/lams,,OER,OER
+Leaflet,ΔΙΑΔΡΑΣΤΙΚΟΙ ΧΑΡΤΕΣ,,,http://leafletjs.com/,open-source JavaScript library για διαδραστικούς χάρτες για κινητά,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,
+Libav,ΜΟΥΣΙΚΗ ΕΠΕΞΕΡΓΑΣΊΑ,,,https://libav.org/,"Εργαλεία και βιβλιοθηκες για μετατροπή και χειρισμό αρχείων πολυμέσων
+","OPEN SOURCE
+",ΕΦΑΡΜΟΓΗ,
+LibLime Koha,Διαχείριση Βιβλιοθηκών,,,http://liblime.com,Διαχείριση Βιβλιοθηκών,OPEN SOURCE,,
+Libre CAD,ΣΧΕΔΙΑΣΗ,,,http://librecad.org/cms/home.html,To LibreCAD είναι ένα πρόγραμμα CAD που έχει σχεδιαστεί για να λειτουργεί σε όλα τα λειτουργικά συστήματα. Είναι ένα fork του QCad και του LibreCAD και έχει ένα γραφικό που θα φανεί γνωστό για τους χρήστες του AutoCAD. Το LibreCAD από προεπιλογή χρησιμοποιεί τη μορφή αρχείων AutoCAD DXF για την εισαγωγή και την αποθήκευση και προορίζεται  περισσότερο για σχέδια 2D.,"OPEN SOURCE
+",ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+LibreOffice,ΕΦΑΡΜΟΓΕΣ ΓΡΑΦΕΙΟΥ,,,,,,,
+Libreplan,Διαχείριση έργων,,,http://www.libreplan.com/home,Διαχείριση έργων,,,
+lightbot ,"ΚΟΥΙΖ, ΠΑΖΛ, ΤΕΣΤ",,ΠΡΟΣΧΟΛΙΚΗ - ΠΡΩΤΟΒΑΘΜΙΑ,https://lightbot.com/,Πλατφόρμα δημιουργίας  Κουιζ,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Likinux,ΛΕΙΤΟΥΡΓΙΚΟ ΣΥΣΤΗΜΑ,,,http://likinux.blogspot.gr/,"Μια διανομή Linux για μαθητές, φοιτητές, εκπαιδευτικούς κι ανειδίκευτους χρήστες. Το Likinux 2012 είναι ένα πλήρες, εξελληνισμένο και δωρεάν περιβάλλον εργασίας για PCs, laptops, netbooks και tablets (ειδικά παραμετροποιημένο για εργαστήρια Πληροφορικής). Είναι βασισμένο στο Ubuntu 11.10 64bit, ενώ διαθέτει πληθώρα εφαρμογών και ρυθμίσεων που θα ικανοποιήσουν και τον πιο απαιτητικό χρήστη.",OPEN SOURCE,OPERATING SYSTEM,LINUX
+LimeSurvey,Ερωτηματολογια,,,http://limesurvey.org,Πλατφόρμα δημιουργίας ερωτηματολογιών - Κουιζ,,ΠΛΑΤΦΟΡΜΑ,"
+"
+Linphone,ΙΝΤΕΡΝΕΤΙΚΗ ΤΗΛΕΦΩΝΙΑ,,,http://www.linphone.org/,"Linphone is an open source SIP Phone, available on mobile and desktop environments (iOS, Android, Windows Phone 8, GNU/Linux, Windows Desktop, MAC OSX) and on web browsers.",OPEN SOURCE,,CROSSPLATFORM
+"Linux MultiMedia Studio,",ΠΟΛΥΜΕΣΑ,,,https://lmms.io/,"LMMS (formerly Linux MultiMedia Studio) is digital audio workstation software. When LMMS is executed on a computer with appropriate hardware, music can be produced by synthesizing sounds, arranging samples, playing on a MIDI keyboard, and combining the features of trackers, sequencers, and synthesizers. ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Logo,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,,,,,,,
+marble,ΓΕΩΓΡΑΦΙΑ,ΓΕΩΓΡΑΦΙΑ,,https://marble.kde.org/,virtual globe and world atlas,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Mahara,Δημιουργία e-portfolio,ΟΛΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://mahara.org/,Δημιουργία e-portfolio,OPEN SOURCE,ΠΛΑΤΦΟΡΜΑ,ONLINE
+maxima,ΜΑΘΗΜΑΤΙΚΑ,ΜΑΘΗΜΑΤΙΚΑ,,http://maxima.sourceforge.net/,Εργαλείο υλοποίησης αλγεβρικών πράξεων ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+mazesmith,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ,http://maze.sxoleio.cu.cc/,Παιχνίδι - Φτιάξτε λαβύρινθους και εκτυπώστε ή παίξτε στον browser,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Mindmaps,ΝΟΗΤΙΚΟΙ ΧΑΡΤΕΣ,,,http://drichard.org/mindmaps/,HTML5 based mind mapping application,OPEN SOURCE,ΠΛΑΤΦΟΡΜΑ,ONLINE
+MindRaider,Διαχείριση έργων,,,http://mindraider.sourceforge.net,Διαχείριση έργων,,,
+Molecular Workbench,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://mw.concord.org/modeler/,Is a modeling tool for designing and conducting computational experiments across science.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Moodle,Πλατφόρμες eLearning,"ΟΛΕΣ
+",ΟΛΕΣ,http://moodle.org,Πλατφόρμες eLearning,,,
+moovly,ΠΟΛΥΜΕΣΑ,,ΠΡΩΤΟΒΑΘΜΙΑ,https://www.moovly.com/,Πλατφόρμα δημιουργίας πολυμσεικού περιεχομένου,,ΠΛΑΤΦΟΡΜΑ,
+MSWLogo,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,"ΠΛΗΡΟΦΟΡΙΚΗ
+",ΠΡΩΤΟΒΑΘΜΙΑ,http://www.softronix.com/,Περιβάλλον προγραμματισμού LOGO,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+MuseScore,ΜΟΥΣΙΚΗ,,ΟΛΕΣ,https://musescore.org/el,"Εφαρμογή Εγγραφής Μουσικού Κειμένου
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+netbeans,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://netbeans.org/,NetBeans is a software development platform written in Java.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+notepad++,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://notepad-plus-plus.org/,"Notepad++ is a free (as in ""free speech"" and also as in ""free beer"") source code editor and Notepad replacement that supports several languages. Running in the MS Windows environment, its use is governed by GPL License.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Ns-3,ΗΛΕΚΤΡΟΝΙΚΗ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.nsnam.org/,"ns-3 is a discrete-event network simulator for Internet systems, targeted primarily for research and educational use",OPEN SOURCE,"SOURCE CODE
+",
+ObjectKAREL,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,,Εκπαιδευτικό προγραμματιστικό περιβάλλον  για μια εισαγωγή στον αντικειμενοστραφή προγραμματισμό που αναπτύχθηκε στο Πανεπιστήμιο Μακεδονίας,,,
+Okular,ΠΡΟΒΟΛΗ ΕΓΓΡΑΦΩΝ,,,https://okular.kde.org/,Εφαρμογή προβολής εγγράφων,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Open Circuit Design,ΗΛΕΚΤΡΟΝΙΚΗ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://opencircuitdesign.com/,Συλλογή εφαρμογών ηλεκτρονικής σχεδιασης ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Open-Sancore,ΔΙΑΔΡΑΣΤΙΚΟΙ ΠΙΝΑΚΕΣ,,,http://open-sankore.org/,Λογισμικό για διαδραστικούς πίνακες,"OPEN SOURCE
+",ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+OpenBiblio,Διαχείριση Βιβλιοθηκών,,,http://obiblio.sourceforge.net,Διαχείριση Βιβλιοθηκών,OPEN SOURCE,,
+Openeclass,Πλατφόρμες eLearning,,,http://www.openeclass.org,"Η πλατφόρμα Open eClass είναι ένα ολοκληρωμένο Σύστημα Διαχείρισης Ηλεκτρονικών Μαθημάτων και συνιστά προσφορά του Ελληνικού Ακαδημαϊκού Διαδικτύου (GUnet) στην εκπαιδευτική και ακαδημαϊκή κοινότητα. Έχει σχεδιαστεί με προσανατολισμό την ενίσχυση της εκπαιδευτικής διαδικασίας, βασίζεται στη φιλοσοφία του λογισμικού ανοικτού κώδικα, υποστηρίζεται ενεργά από το GUnet και διανέμεται ελεύθερα. Βασική επιδίωξη της πλατφόρμας είναι η ενσωμάτωση των νέων τεχνολογιών και η εποικοδομητική χρήση του διαδικτύου στην εκπαιδευτική διαδικασία.",,,
+OpenELMS,Πλατφόρμες eLearning,,,http://www.openelms.org,Πλατφόρμες eLearning,,,
+Openshot,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,,,http://www.openshot.org/,"Επεξεργασία βίντεο
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+OpenStudent,Συστήματα διαχείρισης Πληροφοριών,,,http://openstudent.ca,Συστήματα διαχείρισης Πληροφοριών,,,
+Oregano,ΗΛΕΚΤΡΟΝΙΚΗ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://github.com/drahnr/oregano,Πρόγραμμα για την προσομοίωση ηλεκτρικών κυκλωμάτων. ,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+PDFCreator,ΔΗΜΙΟΥΡΓΙΑ PDF,,,http://www.pdfforge.org/pdfcreator,"Εφαρμογή δημιουργίας PDF
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,WINDOWS
+Photorec,"ΑΝΑΚΤΗΣΗ ΑΡΧΕΙΩΝ
+",,,http://www.cgsecurity.org/wiki/PhotoRec,Προγραμμα ανακτησης διεγραμμενων αρχειων το οποιο δουλευει τοσο σε καρτα μνημης φωτογραφικων μηχανων οσο και σε σκληρους δισκους μιας και υποστηριζει και πολλων ειδων αρχεια.,OPEN SOURCE,"ΕΦΑΡΜΟΓΗ
+",CROSSPLATFORM
+php,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,,,,,,,
+physion,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,ΦΥΣΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,"
+http://physion.net/en/downloads",Physion is a 2D Physics simulation software. It can be used to easily create a wide range of interactive physics simulations and educational experiments.,OPEN SOURCE,"
+","WINDOWS, LINUX"
+Pitivi,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,,,http://www.pitivi.org/,Επεξεργασία βίνεο,OPEN SOURCE,LINUX,
+Protein Investigator,ΒΙΟΛΟΓΙΑ,ΒΙΟΛΟΓΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://intro.bio.umb.edu/PI/,The Protein Investigator gives students an opportunity to interactively explore protein structure and function in a simplified system. This is a highly-simplified model of protein folding. It is not intended to predict the correct structures of any proteins; it is designed to illustrate the major principles involved in that proces,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"WINDOWS, MACOSX"
+PuTTY,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.chiark.greenend.org.uk/~sgtatham/putty,"terminal emulator, serial console and network file transfer application",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+pySioGame,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΩΤΟΒΑΘΜΙΑ,http://www.pysiogame.net/,"Συλλογή εκπαιδευτικών παιχνιδιών και δραστηριοτήτων
+",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,"WINDOWS, LINUX"
+QGIS,ΓΕΩΓΡΑΦΙΑ,ΓΕΩΓΡΑΦΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.qgis.org/en/site/,"Το  Quantum  GIS  (QGIS)  είναι  ένα  φιλικό  προς  το  χρήστη  λογισμικό 
+Γεωγραφικών  Συστημάτων  Πληροφοριών  Ανοιχτού  Κώδικα  και 
+διέπεται από την άδεια General Public License (GNU)",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+qucs,ΗΛΕΚΤΡΟΝΙΚΗ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://qucs.sourceforge.net/index.html,"Qucs is an integrated circuit simulator which means you are able to setup a circuit with a graphical user interface (GUI) and simulate the large-signal, small-signal and noise behaviour of the circuit. After that simulation has finished you can view the simulation results on a presentation page or window.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+R-project ,ΜΑΘΗΜΑΤΙΚΑ - ΣΤΑΤΙΣΤΙΚΗ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,,Γλώσσα με περιβάλλον για υπολογισμούς στατιστικής. Προσφέρει μεγάλη ποικιλία στατιστικών και γραφικών τεχνικών. ,OPEN SOURCE,,CROSSPLATFORM
+Repetier,ΣΧΕΔΙΑΣΗ 3D- PRINTING,,,https://www.repetier.com/,3D Printing Software,,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+sage,ΜΑΘΗΜΑΤΙΚΑ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.sagemath.org/,SageMath is a free open-source mathematics software system licensed under the GP,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Sakai,Πλατφόρμες eLearning,,,http://sakaiproject.org,Πλατφόρμες eLearning,,,
+SalsaJ,ΑΣΤΡΟΝΟΜΙΑ,,,http://www.euhou.net/index.php/salsaj-software-mainmenu-9/download-mainmenu-10,"It allows students to display, analyse, and explore real astronomical images and other data in the same way that professional astronomers do, making the same kind of discoveries that lead to true excitement about science. ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+SchoolTool,Συστήματα διαχείρισης Πληροφοριών,,,http://schooltool.org,Συστήματα διαχείρισης Πληροφοριών,,,
+scilab,ΜΑΘΗΜΑΤΙΚΑ,ΜΑΘΗΜΑΤΙΚΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://www.scilab.org,"Πακέτο λογισμικού για αριθμητικούς υπολογισμούς. Υποστηρίζει την ενσωμάτωση προγραμμάτων γραμμένων σε διάφορες γλώσσες (C, Fortran κ.ά.). ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Scratch for Arduino (S4A),ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,,,S4A is a Scratch modification that allows for simple programming of the Arduino open source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Scribus,DTP,,,https://www.scribus.net/,"Το Scribus είναι μια εφαρμογή για σελιδοποίηση εγγράφων (desktop publishing, DTP) η οποία διατίθεται ως ελεύθερο λογισμικό υπό τη Γενική δημόσια άδεια GPL. ",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Sebran,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ,http://online.seterra.com/en/p/sebran,Συλλογή εκπαιδευτικών παιχνιδιών-προγραμματων,OPEN SOURCE,,WINDOWS
+Simile Exhibit,ΔΙΑΔΡΑΣΤΙΚΟΙ ΧΑΡΤΕΣ,,,http://www.simile-widgets.org/exhibit/,"Exhibit lets you easily create web pages with advanced text search and filtering functionalities, with interactive maps, timelines, and other visualizations like these: ",OPEN SOURCE,"SOURCE CODE
+",
+Simile Timeline,ΧΡΟΝΟΛΟΓΙΟ ,,,http://simile-widgets.org/wiki/Timeline,,,,
+Stellarium,ΑΣΤΡΟΝΟΜΙΑ,,ΠΡΩΤΟΒΑΘΜΙΑ,http://www.stellarium.org/,"Είναι μια πλήρως εξελληνισμένη εφαρμογή λογισμικού ανοιχτού κώδικα, με την οποία μπορείτε να απεικονίσετε ρεαλιστικά, σε τρεις διαστάσεις, τον ουρανό με τους αστερισμούς. Είναι ένα 3D πλανητάριο για τον Η/Υ, που εγκαθίσταται σε pc, mac και linux. Απλά ορίστε συντεταγμένες και ξεκινήστε την περιήγηση σε περισσότερα από 600.000 άστρα, ενώ υπάρχουν επιπρόσθετοι κατάλογοι 210 εκατομμυρίων άστρων.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+STORYBIRD,ΔΗΜΙΟΥΡΓΙΑ ΔΙΑΔΡΑΣΤΙΚΩΝ ΙΣΤΟΡΙΩΝ,,,https://storybird.com/,"Δημιουργία διαδραστικών ιστοριών
+",,ΠΛΑΤΦΟΡΜΑ,ONLINE
+storyboardthat,ΔΗΜΙΟΥΡΓΙΑ ΔΙΑΔΡΑΣΤΙΚΩΝ ΙΣΤΟΡΙΩΝ,,,http://www.storyboardthat.com/,Δημιουργία διαδραστικών ιστοριών,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+StoryMapJS,ΕΝΝΟΙΟΛΟΓΙΚΟΙ ΧΑΡΤΕΣ,,,https://storymap.knightlab.com/,,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Tagul,ΣΥΝΝΕΦΑ ΛΕΞΕΩΝ,,,https://tagul.com/,,,,
+tcexam,"ΚΟΥΙΖ, ΠΑΖΛ, ΤΕΣΤ",,,https://tcexam.org/,"TCExam is a Open Source system for electronic exams (also know as CBA - Computer-Based Assessment, CBT - Computer-Based Testing or e-exam) that enables educators and trainers to author, schedule, deliver, and report on quizzes, tests and exams",OPEN SOURCE,ΠΛΑΤΦΟΡΜΑ,ONLINE
+thinglink,ΔΗΜΙΟΥΡΓΙΑ ΠΟΛΥΜΕΣΩΝ,,ΠΡΩΤΟΒΑΘΜΙΑ,https://www.thinglink.com/edu,Διαδικτυακή πλατφόρμα μετατροπής απλών στατικών εικόνων σε σύνθετες πολυμεσικές,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Thunderbird,ΗΛΕΚΤΡΟΝΙΚΗ ΑΛΛΗΛΟΓΡΑΦΙΑ,,,https://www.mozilla.org/el/thunderbird/,Εφαρμογή ηλ. ταχυδρομείου,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Timeglider,ΧΡΟΝΟΛΟΓΙΟ,,,http://timeglider.com/,"Web-based timeline software for creating and sharing history, project planning and more",,ΠΛΑΤΦΟΡΜΑ,"ONLINE
+"
+TimelineJS,ΧΡΟΝΟΓΡΑΜΜΕΣΑ,,"
+","
+https://timeline.knightlab.com/",εφαρμογή κατασκευής διαδραστικών χρονογραμμών,,,"ONLINE
+"
+TimeRime,ΧΡΟΝΟΓΡΑΜΜΕΣ,,ΠΡΩΤΟΒΑΘΜΙΑ,http://timerime.com/,,,ΠΛΑΤΦΟΡΜΑ,ONLINE
+Timetoast,ΧΡΟΝΟΓΡΑΜΜΕΣ,,ΠΡΩΤΟΒΑΘΜΙΑ,https://www.timetoast.com/,,,,
+TuxMath,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ,,Παιχνιδι αριθμητικής,,,
+TuxPaint,ΖΩΓΡΑΦΙΚΗ,,ΠΡΟΣΧΟΛΙΚΗ - ΠΡΩΤΟΒΑΘΜΙΑ,http://www.tuxpaint.org/,"Tux Paint is a free, award-winning drawing program for children ages 3 to 12 (for example, preschool and K-6). Tux Paint is used in schools around the world as a computer literacy drawing activity. It combines an easy-to-use interface, fun sound effects, and an encouraging cartoon mascot who guides children as they use the program.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+TuxType,ΕΚΠΑΙΔΕΥΤΙΚΑ ΠΑΙΧΝΙΔΙΑ,,ΠΡΟΣΧΟΛΙΚΗ - ΠΡΩΤΟΒΑΘΜΙΑ,http://tux4kids.alioth.debian.org/tuxtype/," TuxTyping is an educational typing tutor for kids starring Tux, the Linux penguin. This educational game comes with two different games for practicing your typing, and having a great time doing it.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+TwinSpace,ΣΥΝΕΡΓΑΤΙΚΗ ΠΛΑΤΦΟΡΜΑ,,,https://twinspace.etwinning.net/login,Συνεργαστική πλατφόρμα e-twinning,,ΠΛΑΤΦΟΡΜΑ,"ONLINE
+"
+VideoLAN Movie Creator,ΕΠΕΞΕΡΓΑΣΙΑ ΒΙΝΤΕΟ,,,http://www.videolan.org/vlmc/,Εφαρμογή επεξεργασία βίντεο,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+Virtual box,"VIRTUALIZATION
+",,,https://www.virtualbox.org/,Virtualization,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+VirtualX,Πλατφόρμες eLearning,,,http://virtualx.sourceforge.net,Πλατφόρμες eLearning,,,
+VLC ,"ΒΙΝΤΕΟ
+",,,http://www.videolan.org/vlc/),Εφαρμογή αναπαραγωγής βίντεο,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+WebQuest,Ανοιχτό Εκπαιδευτικό Περιεχόμενο,,,http://webquest.org/index.php,,,OER,
+Wevideo,ΒΙΝΤΕΟ ΕΠΕΞΕΡΓΑΣΙΑ,,,https://www.wevideo.com/,Online Επεξεργασία βίντεο,,ONLINE,ONLINE
+WINE,"
+Windows Emulator",,,https://www.winehq.org/,Windows Emulator,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Wireshark,ΠΡΟΓΡΑΜΜΑΤΙΣΜΟΣ,ΠΛΗΡΟΦΟΡΙΚΗ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://www.wireshark.org/,"Το Wireshark είναι ένα ελεύθερο και ανοιχτού κώδικα λογισμικό ανάλυσης πρωτοκόλλων δικτύου υπολογιστών. Χρησιμοποιείται για ανάλυση δικτύου, παρακολούθηση δικτύου, εντοπισμό και αντιμετώπιση προβλημάτων στα δίκτυα και για εκπαίδευση.",OPEN SOURCE,ΕΦΑΡΜΟΓΗ,CROSSPLATFORM
+xplanets,ΑΣΤΡΟΝΟΜΙΑ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://xplanet.sourceforge.net/,"Xplanet was inspired by Xearth, which renders an image of the earth into the X root window. All of the major planets and most satellites can be drawn, similar to the Solar System Simulator. A number of different map projections are also supported, including azimuthal, Lambert, Mercator, Mollweide, orthographic, and rectangular. ",OPEN SOURCE,"
+",CROSSPLATFORM
+Zentyal,ΔΙΑΧΕΙΡΙΣΗ ΕΡΓΑΣΤΗΡΙΩΝ,,,http://www.zentyal.org/,Microsoft Exchange alternative on Linux.,OPEN SOURCE,ΕΦΑΡΜΟΓΗ,LINUX
+Εκπαιδευτικές εφαρμογές Φωτόδεντρου,"Ανοιχτό Επιαδευτικό Περιεχόμενο
+",,,http://retinalart.blogspot.gr/p/edu-games.html,,OER,ΠΛΑΤΦΟΡΜΑ,ΟΝLINE
+Colorillo,ΣΧΕΔΙΑΣΗ,Δημιουργία και Έκφραση,ΠΡΟΣΧΟΛΙΚΗ,http://colorillo.com/about.php,Συνεργατική πλατφόρμα σχεδίσσης,OER,ΠΛΑΤΦΟΡΜΑ,ΟΝLINE
+LEARN GENETICS,ΒΙΟΛΟΓΙΑ,ΒΙΟΛΟΓΙΑ,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,http://learn.genetics.utah.edu/,,OER,ΠΛΑΤΦΟΡΜΑ,ΟΝLINE
+PhET,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,,ΔΕΥΤΕΡΟΒΑΘΜΙΑ,https://phet.colorado.edu/el/about,"Το PhET παρέχει διασκεδαστικές, διαδραστικές, βασισμένες σε έρευνες προσομοιώσεις φυσικών φαινομένων δωρεάν. Θεωρούμε ότι η βασισμένη σε έρευνα προσέγγισή μας -που ενσωματώνει ευρήματα από προηγούμενες έρευνες- ενεργοποιεί τους μαθητές, ώστε να κάνουν συνδέσεις μεταξύ των φαινομένων της πραγματικής ζωής και της υποκείμενης σε αυτά επιστημονικής γνώσης και να εμβαθύνουν στον φυσικό κόσμο.",OER,ΠΛΑΤΦΟΡΜΑ,ΟΝLINE
+photodentro,Ανοιχτό Εκπαιδευτικό περιεχόμενο,,,,,OER,ΠΛΑΤΦΟΡΜΑ,ΟΝLINE
+PhysicsLab,ΦΥΣΙΚΕΣ ΕΠΙΣΤΗΜΕΣ,,,http://www.physicslab.org/,,OER,ΠΛΑΤΦΟΡΜΑ,ΟΝLINE
+prezi,ΔΗΜΙΟΥΡΓΙΑ ΠΑΡΟΥΣΙΑΣΕΩΝ ,,,https://prezi.com,online presenations,"OER
+",ΠΛΑΤΦΟΡΜΑ,ONLINE
+Proprofs,ΚΟΥΙΖ - ΔΗΜΙΟΥΡΓΙΑ ΜΑΘΗΜΑΤΩΝ,,,,"online quiz, survey, online course creation tool as well as a knowledge base software",OER,ΠΛΑΤΦΟΡΜΑ,ONLINE
+seilias,Ανοιχτό Εκπαιδευτικό περιεχόμενο,,,http://www.seilias.gr/,Φυσική και Φωτογραφία,OER,ΠΛΑΤΦΟΡΜΑ,ONLINE
